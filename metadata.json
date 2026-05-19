@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Notebook",
+  "description": "A smart, AI-powered digital notebook for capturing ideas, organizing tasks, and syncing across devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
